@@ -1,0 +1,1 @@
+Nginx container that redirects all http requests to https
